@@ -1,0 +1,20 @@
+body{
+    background-color: red;
+}
+.container{
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 200px;
+    background-color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(red, green, blue, alpha);
+}
+h3{
+    text-align: center;
+    color: aqua;
+    margin-bottom: 20px;
+}
+table, th, td{
+    border: 1px solid black;
+    border-collapse:collapse ;
+}
