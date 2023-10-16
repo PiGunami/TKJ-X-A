@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+.navbar{
+    background-color: navajowhite;
+    color: black;
+    display: flex;
+}
+.logo img{
+    width: 50px;
+    height: auto;
+    margin-right: 10px;
+}
+.navbar ul{
+    list-style: none;
+    padding: auto;
+    display: flex;
+}
+.navbar a{
+    text-decoration: none;
+    color: blue;
+}
+.content{
+    max-width: 80%;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: aliceblue;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.3);
+}
